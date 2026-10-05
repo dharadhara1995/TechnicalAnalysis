@@ -1,9 +1,5 @@
 # Assignment 6: Technical Analysis using R, Visualization Phase
 
-**Student:** Dhara Patel
-**Course:** BDA400 - Data Science Tools and Techniques, CDI College
-**Repository:** [https://github.com/[username]/TechnicalAnalysis/tree/main/Assignment6](https://github.com/[username]/TechnicalAnalysis/tree/main/Assignment6)
-
 ## Project Description
 
 An interactive portfolio dashboard built with R Shiny. It fetches stock data from Yahoo Finance, shows it as a candlestick, line or area chart, and lets the user turn technical indicators (moving averages, RSI, MACD, volume) on and off. It applies a choice of trading rules and annotates the chart bars with Buy and Sell signals. The indicators use my own functions from Assignment 5. This is the final stage of the three-part Technical Analysis project (Assignments 2, 5 and 6).
@@ -25,7 +21,7 @@ install.packages(c("shiny", "ggplot2", "quantmod", "patchwork"))
 |------|-------------|
 | `app.R` | All the code for the dashboard, in sections for Steps 1 to 4 |
 | `portfolio.txt` | My stock symbols (from Assignment 2) |
-| `DharaPatel_BDA400_A06.docx` | Cover page and documentation with screenshots |
+| `DharabenPatel_BDA400_A06.docx` | Cover page and documentation with screenshots |
 
 ## Features
 
