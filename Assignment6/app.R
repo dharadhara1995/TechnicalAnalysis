@@ -1,7 +1,4 @@
 # ======================================================================
-# BDA400 - Assignment 6: Technical Analysis using R, Visualization Phase
-# Portfolio Dashboard (R Shiny)
-# Student: Dhara Patel
 #
 # AI Assistance Declaration: I used Claude (Claude Opus 5.5, claude.ai) to
 # help write and explain this Shiny app and the cover page. I ran the app
